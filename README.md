@@ -82,7 +82,7 @@ Virgil Security, Inc. guides software developers into the forthcoming security w
 ### Security Frameworks
 
 * **[E3Kit](https://virgilsecurity.com/e3kit/)** -  an open-source client-side framework that allows developers to add end-to-end encryption to their messaging applications, file sharing programs, and other digital communication products in just a few simple steps to become HIPAA and GDPR compliant and more. E3Kit interacts with Cards Service, Keyknox Service and Pythia Service and supports multi-device access and group chat features.
-  * [JavaScript/TypeScript](https://github.com/VirgilSecurity/virgil-e3kit-js) ⭐ 61 | 🐛 3 | 🌐 TypeScript | 📅 2024-05-28
+  * [JavaScript/TypeScript](https://github.com/VirgilSecurity/virgil-e3kit-js) ⭐ 61 | 🐛 4 | 🌐 TypeScript | 📅 2024-05-28
   * [Swift](https://github.com/VirgilSecurity/virgil-e3kit-x) ⭐ 14 | 🐛 7 | 🌐 Swift | 📅 2026-06-03
   * [Java/Kotlin](https://github.com/VirgilSecurity/virgil-e3kit-kotlin) ⭐ 12 | 🐛 8 | 🌐 Kotlin | 📅 2026-06-02
 
@@ -261,4 +261,4 @@ Also, get extra help from our support team on [Slack](https://virgilsecurity.com
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
