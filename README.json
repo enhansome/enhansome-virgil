@@ -7,8 +7,8 @@
           "children": [
             {
               "node_type": "group",
-              "title": "E3Kit - an open-source client-side framework that allows developers to add end-to-end encryption to their messaging applications, file sharing programs, and other digital communication products in just a few simple steps to become HIPAA and GDPR compliant and more. E3Kit interacts with Cards Service, Keyknox Service and Pythia Service and supports multi-device access and group chat features.",
-              "description": null,
+              "title": "E3Kit",
+              "description": "an open-source client-side framework that allows developers to add end-to-end encryption to their messaging applications, file sharing programs, and other digital communication products in just a few simple steps to become HIPAA and GDPR compliant and more. E3Kit interacts with Cards Service, Keyknox Service and Pythia Service and supports multi-device access and group chat features.",
               "children": [
                 {
                   "node_type": "item",
@@ -59,8 +59,8 @@
             },
             {
               "node_type": "group",
-              "title": "PureKit - an open-source security framework for enabling post-compromise protection for stored data. PureKit allows developers to protect users' passwords and personal data from hacking and securely share data. The framework can be used within any database or login system that uses a password, so it’s applicable for a company of any industry or size.",
-              "description": null,
+              "title": "PureKit",
+              "description": "an open-source security framework for enabling post-compromise protection for stored data. PureKit allows developers to protect users' passwords and personal data from hacking and securely share data. The framework can be used within any database or login system that uses a password, so it’s applicable for a company of any industry or size.",
               "children": [
                 {
                   "node_type": "item",
@@ -546,6 +546,170 @@
           "description": null,
           "node_type": "group",
           "title": "Core SDK"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Virgil Crypto",
+              "description": "is an open-source high-level cryptographic library that allows you to perform all necessary operations for secure storing and transferring data in your digital solutions. Crypto Library is written in C++, suitable for mobile and server platforms and supports bindings with the following programming languages: Swift, Obj-C, Java (Android), С#/.NET, JS, Python, Ruby, PHP, Go.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27396034,
+                "language": "C++",
+                "last_commit": "2020-07-03T22:57:55Z",
+                "owner": "VirgilSecurity",
+                "repo": "virgil-crypto",
+                "stars": 85
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "Wrappers",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "C",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 119018897,
+                    "language": "C",
+                    "last_commit": "2026-08-09T14:34:01Z",
+                    "owner": "VirgilSecurity",
+                    "repo": "virgil-crypto-c",
+                    "stars": 38
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "JavaScript/TypeScript",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 49021437,
+                    "language": "TypeScript",
+                    "last_commit": "2024-05-13T15:36:59Z",
+                    "owner": "VirgilSecurity",
+                    "repo": "virgil-crypto-javascript",
+                    "stars": 35
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Swift",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 41714410,
+                    "language": "Swift",
+                    "last_commit": "2026-06-02T21:13:25Z",
+                    "owner": "VirgilSecurity",
+                    "repo": "virgil-crypto-x",
+                    "stars": 34
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PHP",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 35828673,
+                    "language": "PHP",
+                    "last_commit": "2026-01-27T22:35:00Z",
+                    "owner": "VirgilSecurity",
+                    "repo": "virgil-crypto-php",
+                    "stars": 33
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Python",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 72107292,
+                    "language": "Python",
+                    "last_commit": "2020-05-08T10:56:07Z",
+                    "owner": "VirgilSecurity",
+                    "repo": "virgil-crypto-python",
+                    "stars": 8
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Ruby",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 72103381,
+                    "language": "Ruby",
+                    "last_commit": "2020-07-04T00:06:54Z",
+                    "owner": "VirgilSecurity",
+                    "repo": "virgil-crypto-ruby",
+                    "stars": 7
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "C#/.NET",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 61277478,
+                    "language": "C#",
+                    "last_commit": "2016-12-12T18:48:44Z",
+                    "owner": "VirgilSecurity",
+                    "repo": "virgil-crypto-net",
+                    "stars": 5
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Golang",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 75076696,
+                    "language": null,
+                    "last_commit": "2020-05-08T11:18:24Z",
+                    "owner": "VirgilSecurity",
+                    "repo": "virgil-crypto-go",
+                    "stars": 3
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Java/Kotlin",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 132578570,
+                    "language": null,
+                    "last_commit": "2018-05-10T15:41:23Z",
+                    "owner": "VirgilSecurity",
+                    "repo": "virgil-crypto-kotlin",
+                    "stars": 0
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cryptographic Libraries"
         }
       ],
       "title": "Products"
@@ -797,6 +961,56 @@
       "description": null,
       "items": [
         {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Virgil PureKit MariaDB Demo",
+              "description": "The Demo App is a simple web application that illustrates how Virgil PureKit can be used with MariaDB to store and share data in the most secure way. The Demo App is based on use case involving a hypothetical business scenario involving a patient, physician and laboratory, and shows how distinct roles within a customer's application can be defined and used to restrict ePHI access in a HIPAA-compliant manner.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 238661958,
+                "language": "Java",
+                "last_commit": "2023-01-05T16:27:11Z",
+                "owner": "VirgilSecurity",
+                "repo": "virgil-mariadb-demo",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "With MariaDB"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Virgil Pure Wordpress Plugin",
+              "description": "Free Wordpress Plugin based on a powerful and revolutionary cryptographic technology that protects user passwords from data breaches and both online and offline attacks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 166052090,
+                "language": "PHP",
+                "last_commit": "2024-10-01T10:16:19Z",
+                "owner": "VirgilSecurity",
+                "repo": "virgil-pure-wordpress",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "With WordPress"
+        }
+      ],
+      "title": "PureKit"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "node_type": "item",
           "title": "Virgil IoTKit Sandbox",
           "description": "A demo IoT sandbox is based on Virgil IoTKit and its dev tools. It allows you to emulate IoT devices, manage Firmware, TrustList and see the security for IoT devices in action. The Sandbox is conditionally divided into 3 actors (Vendor, Factory, and End-User) to easily understand the whole development process.",
@@ -831,7 +1045,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:07:25.294Z",
+    "last_updated": "2026-08-24T14:36:25.845Z",
     "original_repository": "VirgilSecurity/awesome-virgil",
     "original_repository_id": 46798977,
     "original_repository_sha": "2bf2d6a3a23a64ffdca84bf8b2b8b5ec3987767f",
