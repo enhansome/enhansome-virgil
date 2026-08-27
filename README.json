@@ -1045,9 +1045,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T10:00:58.662Z",
-    "original_repository": "VirgilSecurity/awesome-virgil",
-    "original_repository_id": 46798977,
+    "last_updated": "2026-08-27T12:10:33.013Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 46798977,
+      "language": null,
+      "last_commit": "2020-05-08T09:57:34Z",
+      "owner": "VirgilSecurity",
+      "repo": "awesome-virgil",
+      "stars": 158
+    },
     "original_repository_sha": "2bf2d6a3a23a64ffdca84bf8b2b8b5ec3987767f",
     "enhanced_repository": "enhansome/enhansome-virgil",
     "enhanced_repository_description": null,
