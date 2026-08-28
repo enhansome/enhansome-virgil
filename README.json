@@ -23,7 +23,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "virgil-e3kit-js",
                     "stars": 61
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 },
                 {
                   "node_type": "item",
@@ -38,7 +39,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "virgil-e3kit-x",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 },
                 {
                   "node_type": "item",
@@ -53,7 +55,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "virgil-e3kit-kotlin",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 }
               ]
             },
@@ -75,7 +78,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "virgil-purekit-go",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 },
                 {
                   "node_type": "item",
@@ -90,7 +94,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "virgil-purekit-java",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 },
                 {
                   "node_type": "item",
@@ -105,7 +110,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "virgil-purekit-php",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 },
                 {
                   "node_type": "item",
@@ -120,7 +126,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "virgil-purekit-net",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 }
               ]
             },
@@ -142,7 +149,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "virgil-iotkit",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 }
               ]
             }
@@ -166,7 +174,8 @@
                 "owner": "VirgilSecurity",
                 "repo": "virgil-cli",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-28T20:56:32.958Z"
             },
             {
               "node_type": "item",
@@ -186,7 +195,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "virgil-iotkit",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 },
                 {
                   "node_type": "item",
@@ -201,7 +211,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "virgil-iotkit",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 },
                 {
                   "node_type": "item",
@@ -216,7 +227,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "virgil-iotkit",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 },
                 {
                   "node_type": "item",
@@ -231,7 +243,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "virgil-iotkit",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 },
                 {
                   "node_type": "item",
@@ -246,7 +259,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "virgil-iotkit",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 }
               ],
               "repo_info": {
@@ -257,7 +271,8 @@
                 "owner": "VirgilSecurity",
                 "repo": "virgil-iotkit",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T20:56:32.958Z"
             }
           ],
           "description": null,
@@ -284,7 +299,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "virgil-sdk-javascript",
                     "stars": 33
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 },
                 {
                   "node_type": "item",
@@ -299,7 +315,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "virgil-sdk-x",
                     "stars": 28
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 },
                 {
                   "node_type": "item",
@@ -314,7 +331,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "virgil-sdk-java-android",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 },
                 {
                   "node_type": "item",
@@ -329,7 +347,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "virgil-sdk-cpp",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 },
                 {
                   "node_type": "item",
@@ -344,7 +363,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "virgil-sdk-net",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 },
                 {
                   "node_type": "item",
@@ -359,7 +379,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "virgil-sdk-php",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 },
                 {
                   "node_type": "item",
@@ -374,7 +395,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "virgil-sdk-python",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 },
                 {
                   "node_type": "item",
@@ -389,7 +411,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "virgil-sdk-go",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 },
                 {
                   "node_type": "item",
@@ -404,7 +427,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "virgil-sdk-ruby",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 }
               ]
             },
@@ -426,7 +450,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "virgil-pythia-go",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 },
                 {
                   "node_type": "item",
@@ -441,7 +466,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "virgil-pythia-node",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 },
                 {
                   "node_type": "item",
@@ -456,7 +482,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "virgil-pythia-x",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 },
                 {
                   "node_type": "item",
@@ -471,7 +498,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "virgil-pythia-net",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 },
                 {
                   "node_type": "item",
@@ -486,7 +514,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "virgil-pythia-java",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 }
               ]
             },
@@ -508,7 +537,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "virgil-keyknox-x",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 },
                 {
                   "node_type": "item",
@@ -523,7 +553,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "virgil-keyknox-javascript",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 },
                 {
                   "node_type": "item",
@@ -538,7 +569,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "virgil-keyknox-kotlin",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 }
               ]
             }
@@ -562,7 +594,8 @@
                 "owner": "VirgilSecurity",
                 "repo": "virgil-crypto",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-28T20:56:32.958Z"
             },
             {
               "node_type": "group",
@@ -582,7 +615,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "virgil-crypto-c",
                     "stars": 38
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 },
                 {
                   "node_type": "item",
@@ -597,7 +631,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "virgil-crypto-javascript",
                     "stars": 35
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 },
                 {
                   "node_type": "item",
@@ -612,7 +647,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "virgil-crypto-x",
                     "stars": 34
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 },
                 {
                   "node_type": "item",
@@ -627,7 +663,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "virgil-crypto-php",
                     "stars": 33
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 },
                 {
                   "node_type": "item",
@@ -642,7 +679,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "virgil-crypto-python",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 },
                 {
                   "node_type": "item",
@@ -657,7 +695,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "virgil-crypto-ruby",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 },
                 {
                   "node_type": "item",
@@ -672,7 +711,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "virgil-crypto-net",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 },
                 {
                   "node_type": "item",
@@ -687,7 +727,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "virgil-crypto-go",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 },
                 {
                   "node_type": "item",
@@ -702,7 +743,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "virgil-crypto-kotlin",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 }
               ]
             }
@@ -737,7 +779,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "virgil-sdk-python",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 },
                 {
                   "node_type": "item",
@@ -752,7 +795,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "demo-backend-nodejs",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 },
                 {
                   "node_type": "item",
@@ -767,7 +811,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "sample-backend-go",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 },
                 {
                   "node_type": "item",
@@ -782,7 +827,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "demo-backend-java",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 },
                 {
                   "node_type": "item",
@@ -797,7 +843,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "demo-backend-php",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 }
               ]
             },
@@ -819,7 +866,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "virgil-e3kit-x",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 },
                 {
                   "node_type": "item",
@@ -834,7 +882,8 @@
                     "owner": "VirgilSecurity",
                     "repo": "demo-e3kit-web",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
                 }
               ]
             }
@@ -858,7 +907,8 @@
                 "owner": "VirgilSecurity",
                 "repo": "demo-firebase-js",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T20:56:32.958Z"
             },
             {
               "node_type": "item",
@@ -873,7 +923,8 @@
                 "owner": "VirgilSecurity",
                 "repo": "virgil-e3kit-firebase-func",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T20:56:32.958Z"
             }
           ],
           "description": null,
@@ -895,7 +946,8 @@
                 "owner": "VirgilSecurity",
                 "repo": "demo-twilio-backend-nodejs",
                 "stars": 129
-              }
+              },
+              "first_seen": "2026-08-28T20:56:32.958Z"
             },
             {
               "node_type": "item",
@@ -910,7 +962,8 @@
                 "owner": "VirgilSecurity",
                 "repo": "demo-e3kit-ios-twilio",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T20:56:32.958Z"
             }
           ],
           "description": null,
@@ -932,7 +985,8 @@
                 "owner": "VirgilSecurity",
                 "repo": "demo-nexmo-chat-e3kit-android",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T20:56:32.958Z"
             },
             {
               "node_type": "item",
@@ -947,7 +1001,8 @@
                 "owner": "VirgilSecurity",
                 "repo": "demo-nexmo-chat-backend-java",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T20:56:32.958Z"
             }
           ],
           "description": null,
@@ -975,7 +1030,8 @@
                 "owner": "VirgilSecurity",
                 "repo": "virgil-mariadb-demo",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T20:56:32.958Z"
             }
           ],
           "description": null,
@@ -997,7 +1053,8 @@
                 "owner": "VirgilSecurity",
                 "repo": "virgil-pure-wordpress",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T20:56:32.958Z"
             }
           ],
           "description": null,
@@ -1023,7 +1080,8 @@
             "owner": "VirgilSecurity",
             "repo": "virgil-iotkit",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T20:56:32.958Z"
         },
         {
           "node_type": "item",
@@ -1038,14 +1096,15 @@
             "owner": "VirgilSecurity",
             "repo": "demo-iotkit-nix",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T20:56:32.958Z"
         }
       ],
       "title": "IoTKit"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:52:57.760Z",
+    "last_updated": "2026-08-28T20:56:32.958Z",
     "original_repository_info": {
       "archived": false,
       "id": 46798977,
