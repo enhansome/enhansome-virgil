@@ -1466,31 +1466,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Java",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A sample backend that demonstrates how to generate a Virgil JWT using Java SDK",
-                    "homepage": "https://github.com/VirgilSecurity/virgil-sdk-java-android",
-                    "id": 160255509,
-                    "language": "Java",
-                    "license": "BSD-3-Clause",
-                    "last_commit": "2019-11-04T17:31:58Z",
-                    "open_issues": 0,
-                    "owner": "VirgilSecurity",
-                    "repo": "demo-backend-java",
-                    "stars": 1,
-                    "topics": [
-                      "java",
-                      "jwt-generation",
-                      "sample-backend"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T20:56:32.958Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "PHP",
                   "description": null,
                   "children": [],
@@ -1509,6 +1484,31 @@
                     "topics": [
                       "jwt-generation",
                       "php",
+                      "sample-backend"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Java",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A sample backend that demonstrates how to generate a Virgil JWT using Java SDK",
+                    "homepage": "https://github.com/VirgilSecurity/virgil-sdk-java-android",
+                    "id": 160255509,
+                    "language": "Java",
+                    "license": "BSD-3-Clause",
+                    "last_commit": "2019-11-04T17:31:58Z",
+                    "open_issues": 0,
+                    "owner": "VirgilSecurity",
+                    "repo": "demo-backend-java",
+                    "stars": 0,
+                    "topics": [
+                      "java",
+                      "jwt-generation",
                       "sample-backend"
                     ]
                   },
@@ -1917,7 +1917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T14:26:50.475Z",
+    "last_updated": "2026-08-31T17:06:40.469Z",
     "original_repository_info": {
       "archived": false,
       "description": "Key Management and Crypto Building Block for your App or Device.",

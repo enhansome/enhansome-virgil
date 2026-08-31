@@ -160,8 +160,8 @@ Virgil Security, Inc. guides software developers into the forthcoming security w
   * [Python](https://github.com/VirgilSecurity/virgil-sdk-python/tree/master#sample-backend-for-jwt-generation) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2020-04-28
   * [NodeJS](https://github.com/VirgilSecurity/sample-backend-nodejs) ⭐ 8 | 🐛 0 | 🌐 JavaScript | 📅 2020-08-19
   * [Golang](https://github.com/VirgilSecurity/sample-backend-go) ⭐ 7 | 🐛 0 | 🌐 Go | 📅 2020-07-25
-  * [Java](https://github.com/VirgilSecurity/sample-backend-java) ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2019-11-04
   * [PHP](https://github.com/VirgilSecurity/sample-backend-php) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2020-12-07
+  * [Java](https://github.com/VirgilSecurity/sample-backend-java) ⭐ 0 | 🐛 0 | 🌐 Java | 📅 2019-11-04
   * [Other Languages](https://developer.virgilsecurity.com/docs/e3kit/get-started/generate-client-tokens/)
 * Demo applications:
   * [Demo iOS](https://github.com/VirgilSecurity/virgil-e3kit-x) ⭐ 14 | 🐛 7 | 🌐 Swift | 📅 2026-06-03
@@ -261,4 +261,4 @@ Also, get extra help from our support team on [Slack](https://virgilsecurity.com
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
