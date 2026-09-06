@@ -110,7 +110,7 @@ Virgil Security, Inc. guides software developers into the forthcoming security w
 * **Cards Service SDK** - interacts with Virgil Cards Service and allows developers to add end-to-end encryption (E2EE) security to their new and existing digital products. SDK can be used on both client-side and server-side.
   * [JavaScript/TypeScript](https://github.com/VirgilSecurity/virgil-sdk-javascript) ⭐ 33 | 🐛 5 | 🌐 TypeScript | 📅 2023-01-27
   * [Swift/Objective-C](https://github.com/VirgilSecurity/virgil-sdk-x) ⭐ 28 | 🐛 1 | 🌐 Swift | 📅 2026-06-03
-  * [Java/Android](https://github.com/VirgilSecurity/virgil-sdk-java-android) ⭐ 27 | 🐛 1 | 🌐 Java | 📅 2026-06-02
+  * [Java/Android](https://github.com/VirgilSecurity/virgil-sdk-java-android) ⭐ 28 | 🐛 1 | 🌐 Java | 📅 2026-06-02
   * [C++](https://github.com/VirgilSecurity/virgil-sdk-cpp) ⭐ 18 | 🐛 0 | 🌐 C++ | 📅 2020-05-18
   * [C#/.NET](https://github.com/VirgilSecurity/virgil-sdk-net) ⭐ 15 | 🐛 35 | 🌐 C# | 📅 2022-12-08
   * [PHP](https://github.com/VirgilSecurity/virgil-sdk-php) ⭐ 10 | 🐛 1 | 🌐 PHP | 📅 2026-01-27
@@ -138,7 +138,7 @@ Virgil Security, Inc. guides software developers into the forthcoming security w
 
 ### Cryptographic Libraries
 
-[Virgil Crypto](https://github.com/VirgilSecurity/virgil-crypto) ⭐ 85 | 🐛 1 | 🌐 C++ | 📅 2020-07-03 is an open-source high-level cryptographic library that allows you to perform all necessary operations for secure storing and transferring data in your digital solutions. Crypto Library is written in C++, suitable for mobile and server platforms and supports bindings with the following programming languages: Swift, Obj-C, Java (Android), С#/.NET, JS, Python, Ruby, PHP, Go.
+[Virgil Crypto](https://github.com/VirgilSecurity/virgil-crypto) ⭐ 86 | 🐛 1 | 🌐 C++ | 📅 2020-07-03 is an open-source high-level cryptographic library that allows you to perform all necessary operations for secure storing and transferring data in your digital solutions. Crypto Library is written in C++, suitable for mobile and server platforms and supports bindings with the following programming languages: Swift, Obj-C, Java (Android), С#/.NET, JS, Python, Ruby, PHP, Go.
 
 * **Wrappers**
   * [C](https://github.com/VirgilSecurity/virgil-crypto-c) ⭐ 38 | 🐛 1 | 🌐 C | 📅 2026-08-09
@@ -261,4 +261,4 @@ Also, get extra help from our support team on [Slack](https://virgilsecurity.com
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._

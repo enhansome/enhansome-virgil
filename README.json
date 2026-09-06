@@ -631,7 +631,7 @@
                     "open_issues": 1,
                     "owner": "VirgilSecurity",
                     "repo": "virgil-sdk-java-android",
-                    "stars": 27,
+                    "stars": 28,
                     "topics": [
                       "android",
                       "cryptography",
@@ -1090,7 +1090,7 @@
                 "open_issues": 1,
                 "owner": "VirgilSecurity",
                 "repo": "virgil-crypto",
-                "stars": 85,
+                "stars": 86,
                 "topics": [
                   "bsd3",
                   "c",
@@ -1917,7 +1917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T12:47:17.491Z",
+    "last_updated": "2026-09-06T12:55:24.261Z",
     "original_repository_info": {
       "archived": false,
       "description": "Key Management and Crypto Building Block for your App or Device.",
