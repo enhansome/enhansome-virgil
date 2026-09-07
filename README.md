@@ -141,7 +141,7 @@ Virgil Security, Inc. guides software developers into the forthcoming security w
 [Virgil Crypto](https://github.com/VirgilSecurity/virgil-crypto) ⭐ 86 | 🐛 1 | 🌐 C++ | 📅 2020-07-03 is an open-source high-level cryptographic library that allows you to perform all necessary operations for secure storing and transferring data in your digital solutions. Crypto Library is written in C++, suitable for mobile and server platforms and supports bindings with the following programming languages: Swift, Obj-C, Java (Android), С#/.NET, JS, Python, Ruby, PHP, Go.
 
 * **Wrappers**
-  * [C](https://github.com/VirgilSecurity/virgil-crypto-c) ⭐ 38 | 🐛 1 | 🌐 C | 📅 2026-08-09
+  * [C](https://github.com/VirgilSecurity/virgil-crypto-c) ⭐ 38 | 🐛 2 | 🌐 C | 📅 2026-09-07
   * [JavaScript/TypeScript](https://github.com/VirgilSecurity/virgil-crypto-javascript) ⭐ 35 | 🐛 8 | 🌐 TypeScript | 📅 2024-05-13
   * [Swift](https://github.com/VirgilSecurity/virgil-crypto-x) ⭐ 34 | 🐛 3 | 🌐 Swift | 📅 2026-06-02
   * [PHP](https://github.com/VirgilSecurity/virgil-crypto-php) ⭐ 33 | 🐛 2 | 🌐 PHP | 📅 2026-01-27
@@ -261,4 +261,4 @@ Also, get extra help from our support team on [Slack](https://virgilsecurity.com
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
