@@ -169,7 +169,7 @@ Virgil Security, Inc. guides software developers into the forthcoming security w
 
 ### With Firebase
 
-* [Demo Web](https://github.com/VirgilSecurity/demo-firebase-js) ⭐ 33 | 🐛 14 | 🌐 TypeScript | 📅 2023-03-04 - A simple Web application that demonstrates how the end-to-end encryption works. The application uses Firebase as a backend service for authentication and chat messaging.
+* [Demo Web](https://github.com/VirgilSecurity/demo-firebase-js) ⭐ 32 | 🐛 14 | 🌐 TypeScript | 📅 2023-03-04 - A simple Web application that demonstrates how the end-to-end encryption works. The application uses Firebase as a backend service for authentication and chat messaging.
 * [Virgil Cloud Function for Firebase](https://github.com/VirgilSecurity/virgil-e3kit-firebase-func) ⭐ 22 | 🐛 24 | 🌐 JavaScript | 📅 2023-01-07 use Firebase as a backend service for authentication and chat messaging and Virgil E3kit.
 * [Add end-to-end encryption to your Firebase application](https://developer.virgilsecurity.com/docs/e3kit/integrations/firebase/) - In this tutorial, we will help you add end-to-end encryption to your Firebase application to secure your messages and user data.
 
@@ -261,4 +261,4 @@ Also, get extra help from our support team on [Slack](https://virgilsecurity.com
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._

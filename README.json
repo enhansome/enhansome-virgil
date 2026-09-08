@@ -1604,7 +1604,7 @@
                 "open_issues": 14,
                 "owner": "VirgilSecurity",
                 "repo": "demo-firebase-js",
-                "stars": 33,
+                "stars": 32,
                 "topics": [
                   "demo-app",
                   "encryption",
@@ -1917,7 +1917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T15:06:07.642Z",
+    "last_updated": "2026-09-08T13:41:21.448Z",
     "original_repository_info": {
       "archived": false,
       "description": "Key Management and Crypto Building Block for your App or Device.",
