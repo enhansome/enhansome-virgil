@@ -1124,8 +1124,8 @@
                     "id": 119018897,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-07T07:19:17Z",
-                    "open_issues": 2,
+                    "last_commit": "2026-09-10T21:25:40Z",
+                    "open_issues": 3,
                     "owner": "VirgilSecurity",
                     "repo": "virgil-crypto-c",
                     "stars": 38,
@@ -1917,7 +1917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T13:40:17.616Z",
+    "last_updated": "2026-09-11T13:38:32.980Z",
     "original_repository_info": {
       "archived": false,
       "description": "Key Management and Crypto Building Block for your App or Device.",
