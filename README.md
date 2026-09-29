@@ -175,7 +175,7 @@ Virgil Security, Inc. guides software developers into the forthcoming security w
 
 ### With Twilio
 
-* [Twilio Sample Backend for Node.js](https://github.com/VirgilSecurity/twilio-sample-backend-nodejs) ⭐ 129 | 🐛 10 | 🌐 JavaScript | 📅 2022-12-30 - A sample backend that demonstrates how to generate a Virgil JWT and Twilio token used for authentication with the Virgil and Twilio services
+* [Twilio Sample Backend for Node.js](https://github.com/VirgilSecurity/twilio-sample-backend-nodejs) ⭐ 128 | 🐛 10 | 🌐 JavaScript | 📅 2022-12-30 - A sample backend that demonstrates how to generate a Virgil JWT and Twilio token used for authentication with the Virgil and Twilio services
 * [Demo iOS](https://github.com/VirgilSecurity/demo-e3kit-ios-twilio) ⭐ 1 | 🐛 0 | 🌐 Swift | 📅 2019-07-02 - A simple iOS application that demonstrates how the end-to-end encryption works with Twilio.
 * [Add end-to-end encryption to your Twilio Programmable Chat](https://developer.virgilsecurity.com/docs/e3kit/integrations/twilio/) - In this tutorial, we will help you add end-to-end encryption to your product to secure your messages and user data that you deliver using Twilio Programmable Chat.
 
@@ -261,4 +261,4 @@ Also, get extra help from our support team on [Slack](https://virgilsecurity.com
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
