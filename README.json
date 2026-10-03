@@ -13,7 +13,7 @@
                 {
                   "node_type": "item",
                   "title": "JavaScript/TypeScript",
-                  "description": null,
+                  "description": "VirgilSecurity/virgil-e3kit-js",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -48,7 +48,7 @@
                 {
                   "node_type": "item",
                   "title": "Swift",
-                  "description": null,
+                  "description": "VirgilSecurity/virgil-e3kit-x",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -85,7 +85,7 @@
                 {
                   "node_type": "item",
                   "title": "Java/Kotlin",
-                  "description": null,
+                  "description": "VirgilSecurity/virgil-e3kit-kotlin",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -130,7 +130,7 @@
                 {
                   "node_type": "item",
                   "title": "Golang",
-                  "description": null,
+                  "description": "VirgilSecurity/virgil-purekit-go",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -162,7 +162,7 @@
                 {
                   "node_type": "item",
                   "title": "Java/Kotlin",
-                  "description": null,
+                  "description": "VirgilSecurity/virgil-purekit-java",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -195,7 +195,7 @@
                 {
                   "node_type": "item",
                   "title": "PHP",
-                  "description": null,
+                  "description": "VirgilSecurity/virgil-purekit-php",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -228,7 +228,7 @@
                 {
                   "node_type": "item",
                   "title": "C#.NET",
-                  "description": null,
+                  "description": "VirgilSecurity/virgil-purekit-net",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -268,7 +268,7 @@
                 {
                   "node_type": "item",
                   "title": "C",
-                  "description": null,
+                  "description": "VirgilSecurity/virgil-iotkit",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -343,7 +343,7 @@
                 {
                   "node_type": "item",
                   "title": "Virgil Trust Provisioner. The Virgil Trust Provisioner is a CLI used to manage your distributed trust between all parties, including IoT devices, in your IoT solutions. The CLI is aimed at key pairs and TrustList generation and management, which together make each IoT device identifiable, verifiable and trusted by each party of IoT solution. To start working with the tool, read more here",
-                  "description": ".",
+                  "description": "VirgilSecurity/virgil-iotkit",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -377,7 +377,7 @@
                 {
                   "node_type": "item",
                   "title": "Virgil Device Initializer. In order to make each IoT device identifiable, verifiable and trusted by each party of IoT solution, you have to provide it with specific provision files, generate private keys and create the digital cards for further device registration on the Virgil Cloud. Virgil Device Initializer allows you to make IoT device provisioning and prepare your IoT device (create digital cards) for its further registration on the Virgil Cloud. To start working with the tool, read more here",
-                  "description": ".",
+                  "description": "VirgilSecurity/virgil-iotkit",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -411,7 +411,7 @@
                 {
                   "node_type": "item",
                   "title": "Virgil Device Registrar. Virgil IoT Device Registrar is used to register IoT devices and their digital cards with the Virgil Security Cloud. To start working with the tool, read more here",
-                  "description": ".",
+                  "description": "VirgilSecurity/virgil-iotkit",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -445,7 +445,7 @@
                 {
                   "node_type": "item",
                   "title": "Virgil Firmware Signer. Virgil Firmware Signer is a CLI that allows you to sign firmware in order to provide integrity before distributing it. To start working with the tool, read more here",
-                  "description": ".",
+                  "description": "VirgilSecurity/virgil-iotkit",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -555,7 +555,7 @@
                 {
                   "node_type": "item",
                   "title": "JavaScript/TypeScript",
-                  "description": null,
+                  "description": "VirgilSecurity/virgil-sdk-javascript",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -585,7 +585,7 @@
                 {
                   "node_type": "item",
                   "title": "Swift/Objective-C",
-                  "description": null,
+                  "description": "VirgilSecurity/virgil-sdk-x",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -618,7 +618,7 @@
                 {
                   "node_type": "item",
                   "title": "Java/Android",
-                  "description": null,
+                  "description": "VirgilSecurity/virgil-sdk-java-android",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -650,7 +650,7 @@
                 {
                   "node_type": "item",
                   "title": "C++",
-                  "description": null,
+                  "description": "VirgilSecurity/virgil-sdk-cpp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -679,7 +679,7 @@
                 {
                   "node_type": "item",
                   "title": "C#/.NET",
-                  "description": null,
+                  "description": "VirgilSecurity/virgil-sdk-net",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -708,7 +708,7 @@
                 {
                   "node_type": "item",
                   "title": "PHP",
-                  "description": null,
+                  "description": "VirgilSecurity/virgil-sdk-php",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -737,7 +737,7 @@
                 {
                   "node_type": "item",
                   "title": "Python",
-                  "description": null,
+                  "description": "VirgilSecurity/virgil-sdk-python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -766,7 +766,7 @@
                 {
                   "node_type": "item",
                   "title": "Golang",
-                  "description": null,
+                  "description": "VirgilSecurity/virgil-sdk-go",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -797,7 +797,7 @@
                 {
                   "node_type": "item",
                   "title": "Ruby",
-                  "description": null,
+                  "description": "VirgilSecurity/virgil-sdk-ruby",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -833,7 +833,7 @@
                 {
                   "node_type": "item",
                   "title": "Golang",
-                  "description": null,
+                  "description": "VirgilSecurity/virgil-pythia-go",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -864,7 +864,7 @@
                 {
                   "node_type": "item",
                   "title": "Node.js",
-                  "description": null,
+                  "description": "VirgilSecurity/virgil-pythia-node",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -894,7 +894,7 @@
                 {
                   "node_type": "item",
                   "title": "Swift",
-                  "description": null,
+                  "description": "VirgilSecurity/virgil-pythia-x",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -923,7 +923,7 @@
                 {
                   "node_type": "item",
                   "title": "C#/.NET",
-                  "description": null,
+                  "description": "VirgilSecurity/virgil-pythia-net",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -953,7 +953,7 @@
                 {
                   "node_type": "item",
                   "title": "Java/Kotlin",
-                  "description": null,
+                  "description": "VirgilSecurity/virgil-pythia-java",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -990,7 +990,7 @@
                 {
                   "node_type": "item",
                   "title": "Swift",
-                  "description": null,
+                  "description": "VirgilSecurity/virgil-keyknox-x",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1016,7 +1016,7 @@
                 {
                   "node_type": "item",
                   "title": "JavaScript/TypeScript",
-                  "description": null,
+                  "description": "VirgilSecurity/virgil-keyknox-javascript",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1042,7 +1042,7 @@
                 {
                   "node_type": "item",
                   "title": "Java/Kotlin",
-                  "description": null,
+                  "description": "VirgilSecurity/virgil-keyknox-kotlin",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1115,7 +1115,7 @@
                 {
                   "node_type": "item",
                   "title": "C",
-                  "description": null,
+                  "description": "VirgilSecurity/virgil-crypto-c",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1145,7 +1145,7 @@
                 {
                   "node_type": "item",
                   "title": "JavaScript/TypeScript",
-                  "description": null,
+                  "description": "VirgilSecurity/virgil-crypto-javascript",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1174,7 +1174,7 @@
                 {
                   "node_type": "item",
                   "title": "Swift",
-                  "description": null,
+                  "description": "VirgilSecurity/virgil-crypto-x",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1202,7 +1202,7 @@
                 {
                   "node_type": "item",
                   "title": "PHP",
-                  "description": null,
+                  "description": "VirgilSecurity/virgil-crypto-php",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1231,7 +1231,7 @@
                 {
                   "node_type": "item",
                   "title": "Python",
-                  "description": null,
+                  "description": "VirgilSecurity/virgil-crypto-python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1260,7 +1260,7 @@
                 {
                   "node_type": "item",
                   "title": "Ruby",
-                  "description": null,
+                  "description": "VirgilSecurity/virgil-crypto-ruby",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1289,7 +1289,7 @@
                 {
                   "node_type": "item",
                   "title": "C#/.NET",
-                  "description": null,
+                  "description": "VirgilSecurity/virgil-crypto-net",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1318,7 +1318,7 @@
                 {
                   "node_type": "item",
                   "title": "Golang",
-                  "description": null,
+                  "description": "VirgilSecurity/virgil-crypto-go",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1347,7 +1347,7 @@
                 {
                   "node_type": "item",
                   "title": "Java/Kotlin",
-                  "description": null,
+                  "description": "VirgilSecurity/virgil-crypto-kotlin",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1388,7 +1388,7 @@
                 {
                   "node_type": "item",
                   "title": "Python",
-                  "description": null,
+                  "description": "VirgilSecurity/virgil-sdk-python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1417,7 +1417,7 @@
                 {
                   "node_type": "item",
                   "title": "NodeJS",
-                  "description": null,
+                  "description": "VirgilSecurity/demo-backend-nodejs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1442,7 +1442,7 @@
                 {
                   "node_type": "item",
                   "title": "Golang",
-                  "description": null,
+                  "description": "VirgilSecurity/sample-backend-go",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1467,7 +1467,7 @@
                 {
                   "node_type": "item",
                   "title": "PHP",
-                  "description": null,
+                  "description": "VirgilSecurity/demo-backend-php",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1492,7 +1492,7 @@
                 {
                   "node_type": "item",
                   "title": "Java",
-                  "description": null,
+                  "description": "VirgilSecurity/demo-backend-java",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1524,7 +1524,7 @@
                 {
                   "node_type": "item",
                   "title": "Demo iOS",
-                  "description": null,
+                  "description": "VirgilSecurity/virgil-e3kit-x",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1561,7 +1561,7 @@
                 {
                   "node_type": "item",
                   "title": "Demo Web",
-                  "description": null,
+                  "description": "VirgilSecurity/demo-e3kit-web",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1917,7 +1917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:52:27.657Z",
+    "last_updated": "2026-10-03T05:12:43.403Z",
     "original_repository_info": {
       "archived": false,
       "description": "Key Management and Crypto Building Block for your App or Device.",
