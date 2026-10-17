@@ -1667,7 +1667,7 @@
                 "open_issues": 10,
                 "owner": "VirgilSecurity",
                 "repo": "demo-twilio-backend-nodejs",
-                "stars": 128,
+                "stars": 129,
                 "topics": [
                   "chat",
                   "crypto",
@@ -1917,7 +1917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T14:01:15.294Z",
+    "last_updated": "2026-10-17T13:01:32.825Z",
     "original_repository_info": {
       "archived": false,
       "description": "Key Management and Crypto Building Block for your App or Device.",
