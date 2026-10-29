@@ -98,7 +98,7 @@
                     "open_issues": 8,
                     "owner": "VirgilSecurity",
                     "repo": "virgil-e3kit-kotlin",
-                    "stars": 12,
+                    "stars": 13,
                     "topics": [
                       "e3kit",
                       "encryption",
@@ -1215,7 +1215,7 @@
                     "open_issues": 2,
                     "owner": "VirgilSecurity",
                     "repo": "virgil-crypto-php",
-                    "stars": 33,
+                    "stars": 32,
                     "topics": [
                       "crypto",
                       "cryptography",
@@ -1917,7 +1917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T16:08:48.351Z",
+    "last_updated": "2026-10-29T16:14:40.332Z",
     "original_repository_info": {
       "archived": false,
       "description": "Key Management and Crypto Building Block for your App or Device.",

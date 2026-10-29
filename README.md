@@ -84,7 +84,7 @@ Virgil Security, Inc. guides software developers into the forthcoming security w
 * **[E3Kit](https://virgilsecurity.com/e3kit/)** -  an open-source client-side framework that allows developers to add end-to-end encryption to their messaging applications, file sharing programs, and other digital communication products in just a few simple steps to become HIPAA and GDPR compliant and more. E3Kit interacts with Cards Service, Keyknox Service and Pythia Service and supports multi-device access and group chat features.
   * [JavaScript/TypeScript](https://github.com/VirgilSecurity/virgil-e3kit-js) ⭐ 61 | 🐛 4 | 🌐 TypeScript | 📅 2024-05-28
   * [Swift](https://github.com/VirgilSecurity/virgil-e3kit-x) ⭐ 14 | 🐛 7 | 🌐 Swift | 📅 2026-06-03
-  * [Java/Kotlin](https://github.com/VirgilSecurity/virgil-e3kit-kotlin) ⭐ 12 | 🐛 8 | 🌐 Kotlin | 📅 2026-06-02
+  * [Java/Kotlin](https://github.com/VirgilSecurity/virgil-e3kit-kotlin) ⭐ 13 | 🐛 8 | 🌐 Kotlin | 📅 2026-06-02
 
 * **[PureKit](https://virgilsecurity.com/purekit/)** - an open-source security framework for enabling post-compromise protection for stored data. PureKit allows developers to protect users' passwords and personal data from hacking and securely share data. The framework can be used within any database or login system that uses a password, so it’s applicable for a company of any industry or size.
   * [Golang](https://github.com/VirgilSecurity/virgil-purekit-go) ⭐ 10 | 🐛 0 | 🌐 Go | 📅 2026-05-12
@@ -144,7 +144,7 @@ Virgil Security, Inc. guides software developers into the forthcoming security w
   * [C](https://github.com/VirgilSecurity/virgil-crypto-c) ⭐ 38 | 🐛 4 | 🌐 C | 📅 2026-10-21
   * [JavaScript/TypeScript](https://github.com/VirgilSecurity/virgil-crypto-javascript) ⭐ 35 | 🐛 8 | 🌐 TypeScript | 📅 2024-05-13
   * [Swift](https://github.com/VirgilSecurity/virgil-crypto-x) ⭐ 34 | 🐛 3 | 🌐 Swift | 📅 2026-06-02
-  * [PHP](https://github.com/VirgilSecurity/virgil-crypto-php) ⭐ 33 | 🐛 2 | 🌐 PHP | 📅 2026-01-27
+  * [PHP](https://github.com/VirgilSecurity/virgil-crypto-php) ⭐ 32 | 🐛 2 | 🌐 PHP | 📅 2026-01-27
   * [Python](https://github.com/VirgilSecurity/virgil-crypto-python) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2020-05-08
   * [Ruby](https://github.com/VirgilSecurity/virgil-crypto-ruby) ⭐ 7 | 🐛 1 | 🌐 Ruby | 📅 2020-07-04
   * [C#/.NET](https://github.com/VirgilSecurity/virgil-crypto-net) ⭐ 5 | 🐛 0 | 🌐 C# | 📅 2016-12-12
@@ -261,4 +261,4 @@ Also, get extra help from our support team on [Slack](https://virgilsecurity.com
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
