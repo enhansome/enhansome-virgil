@@ -584,39 +584,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Swift/Objective-C",
-                  "description": "VirgilSecurity/virgil-sdk-x",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Virgil Core SDK allows developers to get up and running with Virgil Cards Service API quickly and add end-to-end security to their new or existing digital solutions to become HIPAA and GDPR compliant and more.",
-                    "homepage": "https://virgilsecurity.com/",
-                    "id": 41714430,
-                    "language": "Swift",
-                    "license": "NOASSERTION",
-                    "last_commit": "2026-06-03T01:04:52Z",
-                    "open_issues": 1,
-                    "owner": "VirgilSecurity",
-                    "repo": "virgil-sdk-x",
-                    "stars": 28,
-                    "topics": [
-                      "carthage",
-                      "cocoapods",
-                      "core-sdk",
-                      "cryptography",
-                      "encryption",
-                      "end-to-end-encryption",
-                      "gdpr",
-                      "hipaa",
-                      "pki",
-                      "sdk",
-                      "swift"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T20:56:32.958Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Java/Android",
                   "description": "VirgilSecurity/virgil-sdk-java-android",
                   "children": [],
@@ -643,6 +610,39 @@
                       "maven",
                       "pki",
                       "sdk"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T20:56:32.958Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Swift/Objective-C",
+                  "description": "VirgilSecurity/virgil-sdk-x",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Virgil Core SDK allows developers to get up and running with Virgil Cards Service API quickly and add end-to-end security to their new or existing digital solutions to become HIPAA and GDPR compliant and more.",
+                    "homepage": "https://virgilsecurity.com/",
+                    "id": 41714430,
+                    "language": "Swift",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-06-03T01:04:52Z",
+                    "open_issues": 1,
+                    "owner": "VirgilSecurity",
+                    "repo": "virgil-sdk-x",
+                    "stars": 27,
+                    "topics": [
+                      "carthage",
+                      "cocoapods",
+                      "core-sdk",
+                      "cryptography",
+                      "encryption",
+                      "end-to-end-encryption",
+                      "gdpr",
+                      "hipaa",
+                      "pki",
+                      "sdk",
+                      "swift"
                     ]
                   },
                   "first_seen": "2026-08-28T20:56:32.958Z"
@@ -1917,7 +1917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T16:26:17.250Z",
+    "last_updated": "2026-11-16T19:41:53.495Z",
     "original_repository_info": {
       "archived": false,
       "description": "Key Management and Crypto Building Block for your App or Device.",

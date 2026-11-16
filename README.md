@@ -109,8 +109,8 @@ Virgil Security, Inc. guides software developers into the forthcoming security w
 
 * **Cards Service SDK** - interacts with Virgil Cards Service and allows developers to add end-to-end encryption (E2EE) security to their new and existing digital products. SDK can be used on both client-side and server-side.
   * [JavaScript/TypeScript](https://github.com/VirgilSecurity/virgil-sdk-javascript) ⭐ 33 | 🐛 5 | 🌐 TypeScript | 📅 2023-01-27
-  * [Swift/Objective-C](https://github.com/VirgilSecurity/virgil-sdk-x) ⭐ 28 | 🐛 1 | 🌐 Swift | 📅 2026-06-03
   * [Java/Android](https://github.com/VirgilSecurity/virgil-sdk-java-android) ⭐ 28 | 🐛 1 | 🌐 Java | 📅 2026-06-02
+  * [Swift/Objective-C](https://github.com/VirgilSecurity/virgil-sdk-x) ⭐ 27 | 🐛 1 | 🌐 Swift | 📅 2026-06-03
   * [C++](https://github.com/VirgilSecurity/virgil-sdk-cpp) ⭐ 18 | 🐛 0 | 🌐 C++ | 📅 2020-05-18
   * [C#/.NET](https://github.com/VirgilSecurity/virgil-sdk-net) ⭐ 15 | 🐛 35 | 🌐 C# | 📅 2022-12-08
   * [PHP](https://github.com/VirgilSecurity/virgil-sdk-php) ⭐ 10 | 🐛 1 | 🌐 PHP | 📅 2026-01-27
@@ -261,4 +261,4 @@ Also, get extra help from our support team on [Slack](https://virgilsecurity.com
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
